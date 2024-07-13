@@ -1,0 +1,9 @@
+# Docs
+README.md
+
+# Ignores
+.dockerignore
+.gitignore
+
+# Environment
+.env
